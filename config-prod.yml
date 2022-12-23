@@ -1,4 +1,2 @@
-server:
-  port: 95281
-
-
+config:
+  info: master config-prod
