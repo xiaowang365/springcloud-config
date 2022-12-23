@@ -1,4 +1,2 @@
-server:
-  port: 95271
-
-
+config:
+  info: dev config-dev
